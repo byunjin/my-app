@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]33(https://github.com/facebook/create-react-app).
+
+## 페이지
+
+메인화면 : 사진 input 하면 바로 실행
 
 ## Available Scripts
 
